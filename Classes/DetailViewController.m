@@ -41,10 +41,17 @@
     }        
 }
 
+- (void)loadSelectedPage{
+	NSString *url = [NSString stringWithFormat:@"http://www.linnovate.net"];
+	[self.webView loadRequest:[NSURLRequest requestWithURL:[NSURL URLWithString:url ]]];
+}
 
 - (void)configureView {
     // Update the user interface for the detail item.
-    detailDescriptionLabel.text = [detailItem description];   
+ //   detailDescriptionLabel.text = [detailItem description];   
+	 detailDescriptionLabel.text = @"Linnovate projects";
+	[self loadSelectedPage];
+
 }
 
 

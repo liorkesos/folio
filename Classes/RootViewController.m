@@ -21,6 +21,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+	self.title = @"Select project categories";
     self.clearsSelectionOnViewWillAppear = NO;
     self.contentSizeForViewInPopover = CGSizeMake(320.0, 600.0);
 }
@@ -154,6 +155,7 @@
 
 - (void)dealloc {
     [detailViewController release];
+	[projects release], projects = nil;
     [super dealloc];
 }
 
