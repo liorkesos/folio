@@ -1,0 +1,326 @@
+Tfolio2
+v7
+r0
+t313370284.209498
+cCheck dependencies
+cProcessInfoPlistFile /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/Info.plist folio2-Info.plist
+cCompileXIB /Users/liorkesos/Development/iOS/ipad/folio2/MainWindow.xib
+cCompileXIB /Users/liorkesos/Development/iOS/ipad/folio2/DetailView.xib
+cProcessPCH /var/folders/G2/G2HSGs9cGuSEkPvniACuoE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/folio2_Prefix-esmzgjzrspvqsnbjtxrtvekhevdi/folio2_Prefix.pch.gch folio2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/main.o /Users/liorkesos/Development/iOS/ipad/folio2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/folio2AppDelegate.o /Users/liorkesos/Development/iOS/ipad/folio2/Classes/folio2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/RootViewController.o /Users/liorkesos/Development/iOS/ipad/folio2/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/DetailViewController.o /Users/liorkesos/Development/iOS/ipad/folio2/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/Projects.o /Users/liorkesos/Development/iOS/ipad/folio2/Classes/Projects.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/folio2 normal i386
+cGenerateDSYMFile /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app.dSYM /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/folio2
+cTouch /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004BD1CFC10000000000001A1A
+t1272041409
+s6682
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/Classes/DetailViewController.h
+c000000004CFD6F0B00000000000002AC
+t1291677451
+s684
+i<UIKit/UIKit.h>
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/Classes/DetailViewController.m
+c000000004CFD6ECE0000000000000DC5
+t1291677390
+s3525
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/Classes/Projects.h
+c000000004CFD6CD900000000000000D3
+t1291676889
+s211
+i<Foundation/Foundation.h>
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/Classes/Projects.m
+c000000004CFD6CD900000000000000BB
+t1291676889
+s187
+i"Projects.h"
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/Classes/RootViewController.h
+c000000004CFD6D9700000000000001EB
+t1291677079
+s491
+i<UIKit/UIKit.h>
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/Classes/RootViewController.m
+c000000004CFD6DA300000000000010DF
+t1291677091
+s4319
+i"RootViewController.h"
+i"DetailViewController.h"
+i"Projects.h"
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/Classes/folio2AppDelegate.h
+c000000004CFD6CA5000000000000030C
+t1291676837
+s780
+i<UIKit/UIKit.h>
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/Classes/folio2AppDelegate.m
+c000000004CFD6CA500000000000007BB
+t1291676837
+s1979
+i"folio2AppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/DetailView.xib
+c000000004CFD6F200000000000005BD4
+t1291677472
+s23508
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/MainWindow.xib
+c000000004CFD6CA500000000000069C4
+t1291676837
+s27076
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app
+t1291677484
+s238
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app.dSYM
+t1291677484
+s102
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/DetailView.nib
+t1291677483
+s1561
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/Info.plist
+t1291676840
+s794
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/MainWindow.nib
+t1291676841
+s1933
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/PkgInfo
+t1291676840
+s8
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/folio2
+t1291677484
+s28440
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/DetailViewController.o
+t1291677484
+s47632
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/Projects.o
+t1291676914
+s5052
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/RootViewController.o
+t1291677484
+s43952
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/folio2.LinkFileList
+c000000004CFD6CF200000000000002A5
+t1291676914
+s677
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/folio2AppDelegate.o
+t1291677484
+s49272
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/main.o
+t1291676841
+s6316
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/folio2_Prefix.pch
+c000000004CFD6CA5000000000000013E
+t1291676837
+s318
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/liorkesos/Development/iOS/ipad/folio2/main.m
+c000000004CFD6CA50000000000000166
+t1291676837
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/G2/G2HSGs9cGuSEkPvniACuoE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/folio2_Prefix-esmzgjzrspvqsnbjtxrtvekhevdi/folio2_Prefix.pch.gch
+t1291676841
+s13825936
+
+Nfolio2-Info.plist
+c000000004CFD6CA500000000000004D6
+t1291676837
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313370283#313370283#0(0"0(0#1#0"8618882144#0"0#
+
+CCompileC build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/DetailViewController.o /Users/liorkesos/Development/iOS/ipad/folio2/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313370284.049000
+e313370284.138929
+r1
+xCompileC
+xbuild/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/DetailViewController.o
+x/Users/liorkesos/Development/iOS/ipad/folio2/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/liorkesos/Development/iOS/ipad/folio2/Classes/DetailViewController.m313370284#313370284#0(0"0(0#0#75"/Users/liorkesos/Development/iOS/ipad/folio2/Classes/DetailViewController.m8617436352#2041"    cd /Users/liorkesos/Development/iOS/ipad/folio2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-generated-files.hmap -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-own-target-headers.hmap -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-all-target-headers.hmap -iquote /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-project-headers.hmap -F/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator -I/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/include -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/DerivedSources/i386 -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/DerivedSources -include /var/folders/G2/G2HSGs9cGuSEkPvniACuoE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/folio2_Prefix-esmzgjzrspvqsnbjtxrtvekhevdi/folio2_Prefix.pch -c /Users/liorkesos/Development/iOS/ipad/folio2/Classes/DetailViewController.m -o /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/Projects.o /Users/liorkesos/Development/iOS/ipad/folio2/Classes/Projects.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313369714.597971
+e313369714.726293
+r1
+xCompileC
+xbuild/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/Projects.o
+x/Users/liorkesos/Development/iOS/ipad/folio2/Classes/Projects.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/liorkesos/Development/iOS/ipad/folio2/Classes/Projects.m313369714#313369714#0(0"0(0#0#63"/Users/liorkesos/Development/iOS/ipad/folio2/Classes/Projects.m8616483680#2017"    cd /Users/liorkesos/Development/iOS/ipad/folio2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-generated-files.hmap -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-own-target-headers.hmap -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-all-target-headers.hmap -iquote /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-project-headers.hmap -F/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator -I/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/include -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/DerivedSources/i386 -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/DerivedSources -include /var/folders/G2/G2HSGs9cGuSEkPvniACuoE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/folio2_Prefix-esmzgjzrspvqsnbjtxrtvekhevdi/folio2_Prefix.pch -c /Users/liorkesos/Development/iOS/ipad/folio2/Classes/Projects.m -o /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/Projects.o0#
+
+CCompileC build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/RootViewController.o /Users/liorkesos/Development/iOS/ipad/folio2/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313370283.951438
+e313370284.048881
+r1
+xCompileC
+xbuild/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/RootViewController.o
+x/Users/liorkesos/Development/iOS/ipad/folio2/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/liorkesos/Development/iOS/ipad/folio2/Classes/RootViewController.m313370283#313370284#0(0"0(0#0#73"/Users/liorkesos/Development/iOS/ipad/folio2/Classes/RootViewController.m8617676544#2037"    cd /Users/liorkesos/Development/iOS/ipad/folio2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-generated-files.hmap -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-own-target-headers.hmap -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-all-target-headers.hmap -iquote /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-project-headers.hmap -F/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator -I/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/include -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/DerivedSources/i386 -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/DerivedSources -include /var/folders/G2/G2HSGs9cGuSEkPvniACuoE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/folio2_Prefix-esmzgjzrspvqsnbjtxrtvekhevdi/folio2_Prefix.pch -c /Users/liorkesos/Development/iOS/ipad/folio2/Classes/RootViewController.m -o /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/folio2AppDelegate.o /Users/liorkesos/Development/iOS/ipad/folio2/Classes/folio2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313370283.950400
+e313370284.050143
+r1
+xCompileC
+xbuild/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/folio2AppDelegate.o
+x/Users/liorkesos/Development/iOS/ipad/folio2/Classes/folio2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/liorkesos/Development/iOS/ipad/folio2/Classes/folio2AppDelegate.m313370283#313370284#0(0"0(0#0#72"/Users/liorkesos/Development/iOS/ipad/folio2/Classes/folio2AppDelegate.m8617733152#2035"    cd /Users/liorkesos/Development/iOS/ipad/folio2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-generated-files.hmap -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-own-target-headers.hmap -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-all-target-headers.hmap -iquote /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-project-headers.hmap -F/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator -I/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/include -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/DerivedSources/i386 -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/DerivedSources -include /var/folders/G2/G2HSGs9cGuSEkPvniACuoE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/folio2_Prefix-esmzgjzrspvqsnbjtxrtvekhevdi/folio2_Prefix.pch -c /Users/liorkesos/Development/iOS/ipad/folio2/Classes/folio2AppDelegate.m -o /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/folio2AppDelegate.o0#
+
+CCompileC build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/main.o /Users/liorkesos/Development/iOS/ipad/folio2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s313369641.837518
+e313369641.905262
+r1
+xCompileC
+xbuild/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/main.o
+x/Users/liorkesos/Development/iOS/ipad/folio2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/liorkesos/Development/iOS/ipad/folio2/main.m313369641#313369641#0(0"0(0#0#51"/Users/liorkesos/Development/iOS/ipad/folio2/main.m8618360288#2001"    cd /Users/liorkesos/Development/iOS/ipad/folio2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-generated-files.hmap -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-own-target-headers.hmap -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-all-target-headers.hmap -iquote /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-project-headers.hmap -F/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator -I/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/include -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/DerivedSources/i386 -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/DerivedSources -include /var/folders/G2/G2HSGs9cGuSEkPvniACuoE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/folio2_Prefix-esmzgjzrspvqsnbjtxrtvekhevdi/folio2_Prefix.pch -c /Users/liorkesos/Development/iOS/ipad/folio2/main.m -o /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/liorkesos/Development/iOS/ipad/folio2/DetailView.xib
+s313370283.516695
+e313370283.950090
+r1
+xCompileXIB
+x/Users/liorkesos/Development/iOS/ipad/folio2/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib313370283#313370283#0(0"0(0#0#59"/Users/liorkesos/Development/iOS/ipad/folio2/DetailView.xib8618429440#587"    cd /Users/liorkesos/Development/iOS/ipad/folio2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/DetailView.nib /Users/liorkesos/Development/iOS/ipad/folio2/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/liorkesos/Development/iOS/ipad/folio2/MainWindow.xib
+s313369640.750403
+e313369641.205595
+r1
+xCompileXIB
+x/Users/liorkesos/Development/iOS/ipad/folio2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib313369640#313369641#0(0"0(0#0#59"/Users/liorkesos/Development/iOS/ipad/folio2/MainWindow.xib8617303872#587"    cd /Users/liorkesos/Development/iOS/ipad/folio2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/MainWindow.nib /Users/liorkesos/Development/iOS/ipad/folio2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CGenerateDSYMFile /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app.dSYM /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/folio2
+s313370284.166675
+e313370284.192894
+r1
+xGenerateDSYMFile
+x/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app.dSYM
+x/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/folio2
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/folio2.app.dSYM build/Debug-iphonesimulator/folio2.app/folio2313370284#313370284#0(0"0(0#0#90"/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/folio28616009344#398"    cd /Users/liorkesos/Development/iOS/ipad/folio2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/folio2 -o /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app.dSYM0#
+
+CLd /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/folio2 normal i386
+s313370284.139022
+e313370284.166576
+r1
+xLd
+x/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/folio2
+xnormal
+xi386
+lSLF07#2@95"Link /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/folio2313370284#313370284#0(0"0(0#0#0"8616775168#925"    cd /Users/liorkesos/Development/iOS/ipad/folio2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator -F/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator -filelist /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/folio2.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/folio20#
+
+CProcessInfoPlistFile /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/Info.plist folio2-Info.plist
+s313369640.746810
+e313369640.750315
+r1
+xProcessInfoPlistFile
+x/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/Info.plist
+xfolio2-Info.plist
+lSLF07#2@25"Process folio2-Info.plist313369640#313369640#0(0"0(0#0#62"/Users/liorkesos/Development/iOS/ipad/folio2/folio2-Info.plist8617797376#494"    cd /Users/liorkesos/Development/iOS/ipad/folio2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility folio2-Info.plist -genpkginfo /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/Info.plist0#
+
+CProcessPCH /var/folders/G2/G2HSGs9cGuSEkPvniACuoE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/folio2_Prefix-esmzgjzrspvqsnbjtxrtvekhevdi/folio2_Prefix.pch.gch folio2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313369641.215223
+e313369641.837419
+r1
+xProcessPCH
+x/var/folders/G2/G2HSGs9cGuSEkPvniACuoE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/folio2_Prefix-esmzgjzrspvqsnbjtxrtvekhevdi/folio2_Prefix.pch.gch
+xfolio2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile folio2_Prefix.pch313369641#313369641#0(0"0(0#0#62"/Users/liorkesos/Development/iOS/ipad/folio2/folio2_Prefix.pch8620419968#1888"    cd /Users/liorkesos/Development/iOS/ipad/folio2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-generated-files.hmap -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-own-target-headers.hmap -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-all-target-headers.hmap -iquote /Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/folio2-project-headers.hmap -F/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator -I/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/include -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/DerivedSources/i386 -I/Users/liorkesos/Development/iOS/ipad/folio2/build/folio2.build/Debug-iphonesimulator/folio2.build/DerivedSources -c /Users/liorkesos/Development/iOS/ipad/folio2/folio2_Prefix.pch -o /var/folders/G2/G2HSGs9cGuSEkPvniACuoE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/folio2_Prefix-esmzgjzrspvqsnbjtxrtvekhevdi/folio2_Prefix.pch.gch0#
+
+CTouch /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app
+s313370284.192995
+e313370284.209452
+r1
+xTouch
+x/Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app
+lSLF07#2@89"Touch /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app313370284#313370284#0(0"0(0#0#0"8615208192#289"    cd /Users/liorkesos/Development/iOS/ipad/folio2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app0#
+
