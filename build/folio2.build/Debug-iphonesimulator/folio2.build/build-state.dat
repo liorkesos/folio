@@ -1,7 +1,7 @@
 Tfolio2
 v7
 r0
-t313371634.062821
+t315046031.890365
 cCheck dependencies
 cProcessInfoPlistFile /Users/liorkesos/Development/iOS/ipad/folio2/build/Debug-iphonesimulator/folio2.app/Info.plist folio2-Info.plist
 cCompileXIB /Users/liorkesos/Development/iOS/ipad/folio2/MainWindow.xib
@@ -192,7 +192,7 @@ s1238
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies313371633#313371633#0(0"0(0#1#0"8618915392#0"0#
+lSLF07#2@18"Check dependencies315046031#315046031#0(0"0(0#1#0"3343187568374212096#0"0#
 
 CCompileC build/folio2.build/Debug-iphonesimulator/folio2.build/Objects-normal/i386/DetailViewController.o /Users/liorkesos/Development/iOS/ipad/folio2/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s313371573.386938

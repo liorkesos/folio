@@ -30,9 +30,9 @@
 	};
 	2804200A108E984D000629CD /* DetailViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {698, 1976}}";
+			sepNavIntBoundsRect = "{{0, 0}, {698, 2015}}";
 			sepNavSelRange = "{971, 0}";
-			sepNavVisRange = "{741, 495}";
+			sepNavVisRange = "{626, 529}";
 			sepNavWindowFrame = "{{154, 189}, {750, 558}}";
 		};
 	};
@@ -55,7 +55,7 @@
 					20,
 					341,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -70,23 +70,32 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 313369637;
-			PBXWorkspaceStateSaveDate = 313369637;
+			PBXPerProjectTemplateStateSaveDate = 315046026;
+			PBXWorkspaceStateSaveDate = 315046026;
 		};
 		perUserProjectItems = {
-			F4FF38F412ADABED000155BF /* XCBuildMessageTextBookmark */ = F4FF38F412ADABED000155BF /* XCBuildMessageTextBookmark */;
-			F4FF38F512ADABED000155BF /* PBXTextBookmark */ = F4FF38F512ADABED000155BF /* PBXTextBookmark */;
-			F4FF38F812ADABF2000155BF /* PBXTextBookmark */ = F4FF38F812ADABF2000155BF /* PBXTextBookmark */;
-			F4FF38F912ADABF2000155BF /* PBXTextBookmark */ = F4FF38F912ADABF2000155BF /* PBXTextBookmark */;
-			F4FF38FA12ADABF2000155BF /* PBXTextBookmark */ = F4FF38FA12ADABF2000155BF /* PBXTextBookmark */;
-			F4FF38FB12ADABF2000155BF /* PBXTextBookmark */ = F4FF38FB12ADABF2000155BF /* PBXTextBookmark */;
-			F4FF38FC12ADABF2000155BF /* PBXTextBookmark */ = F4FF38FC12ADABF2000155BF /* PBXTextBookmark */;
-			F4FF38FD12ADABF2000155BF /* XCBuildMessageTextBookmark */ = F4FF38FD12ADABF2000155BF /* XCBuildMessageTextBookmark */;
-			F4FF38FE12ADABF2000155BF /* PBXTextBookmark */ = F4FF38FE12ADABF2000155BF /* PBXTextBookmark */;
+			F4DF6E7712C7389000B05644 /* PBXTextBookmark */ = F4DF6E7712C7389000B05644 /* PBXTextBookmark */;
+			F4FF38F812ADABF2000155BF = F4FF38F812ADABF2000155BF /* PBXTextBookmark */;
+			F4FF38F912ADABF2000155BF = F4FF38F912ADABF2000155BF /* PBXTextBookmark */;
+			F4FF38FA12ADABF2000155BF = F4FF38FA12ADABF2000155BF /* PBXTextBookmark */;
+			F4FF38FB12ADABF2000155BF = F4FF38FB12ADABF2000155BF /* PBXTextBookmark */;
+			F4FF38FC12ADABF2000155BF = F4FF38FC12ADABF2000155BF /* PBXTextBookmark */;
+			F4FF38FD12ADABF2000155BF = F4FF38FD12ADABF2000155BF /* PBXTextBookmark */;
+			F4FF390012AE8D0F000155BF = F4FF390012AE8D0F000155BF /* PBXTextBookmark */;
 		};
 		sourceControlManager = F4FF38C312ADA42A000155BF /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	F4DF6E7712C7389000B05644 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2804200A108E984D000629CD /* DetailViewController.m */;
+		name = "DetailViewController.m: 44";
+		rLen = 0;
+		rLoc = 971;
+		rType = 0;
+		vrLen = 529;
+		vrLoc = 626;
 	};
 	F4FF38B112ADA425000155BF /* folio2 */ = {
 		isa = PBXExecutable;
@@ -144,25 +153,6 @@
 			sepNavVisRange = "{0, 187}";
 		};
 	};
-	F4FF38F412ADABED000155BF /* XCBuildMessageTextBookmark */ = {
-		isa = PBXTextBookmark;
-		comments = "Expected identifier or '(' before 'void'";
-		fRef = 2804200A108E984D000629CD /* DetailViewController.m */;
-		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 43;
-		rType = 1;
-	};
-	F4FF38F512ADABED000155BF /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 2804200A108E984D000629CD /* DetailViewController.m */;
-		name = "DetailViewController.m: 46";
-		rLen = 0;
-		rLoc = 1154;
-		rType = 0;
-		vrLen = 487;
-		vrLoc = 896;
-	};
 	F4FF38F812ADABF2000155BF /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = F4FF38C612ADA459000155BF /* Projects.m */;
@@ -213,23 +203,22 @@
 		vrLen = 383;
 		vrLoc = 267;
 	};
-	F4FF38FD12ADABF2000155BF /* XCBuildMessageTextBookmark */ = {
+	F4FF38FD12ADABF2000155BF /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		comments = "Expected identifier or '(' before 'void'";
 		fRef = 2804200A108E984D000629CD /* DetailViewController.m */;
-		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
 		rLoc = 43;
 		rType = 1;
 	};
-	F4FF38FE12ADABF2000155BF /* PBXTextBookmark */ = {
+	F4FF390012AE8D0F000155BF /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 2804200A108E984D000629CD /* DetailViewController.m */;
 		name = "DetailViewController.m: 44";
 		rLen = 0;
 		rLoc = 971;
 		rType = 0;
-		vrLen = 495;
-		vrLoc = 741;
+		vrLen = 688;
+		vrLoc = 469;
 	};
 }
